@@ -1,0 +1,125 @@
+
+R	java:S125¤"<This block of commented-out lines of code should be removed.(²Õƒå
+J
+java:S1121„".Extract the assignment out of this expression.(ëÕ·˜øÿÿÿÿ
+E
+java:S1121ø".Extract the assignment out of this expression.(×¤»
+R	java:S107¦"<Method has 8 parameters, which is greater than 7 authorized.(ª „
+p
+java:S1192"YDefine a constant instead of duplicating this literal "attribute.color.noColor" 11 times.(ÆøÛ€
+?
+java:S1604¸"(Make this anonymous inner class a lambda(­Å÷À
+J
+java:S1121•".Extract the assignment out of this expression.(ÍÛÑºşÿÿÿÿ
+J
+java:S1121‰".Extract the assignment out of this expression.(ª¡Íúÿÿÿÿ
+J
+java:S1121	".Extract the assignment out of this expression.(×ˆ³ùÿÿÿÿ
+E
+java:S1121È".Extract the assignment out of this expression.(×¤»
+J
+java:S1121±".Extract the assignment out of this expression.(ß‘¹ëúÿÿÿÿ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(İùÔİÿÿÿÿÿ
+Q	java:S125â
+"<This block of commented-out lines of code should be removed.(·Œ…
+D
+java:S1172
+"-Remove this unused method parameter "widths".(åè­õ
+A
+java:S1172¯"*Remove this unused method parameter "dsp".(–›„î
+W	java:S107ü"<Method has 8 parameters, which is greater than 7 authorized.(ßíãÀûÿÿÿÿ
+D
+java:S1121í".Extract the assignment out of this expression.(áã¨<
+?
+java:S1604§"(Make this anonymous inner class a lambda(ı…¢€
+W	java:S107Ò"<Method has 9 parameters, which is greater than 7 authorized.(ééĞ¬şÿÿÿÿ
+E
+java:S1121ú".Extract the assignment out of this expression.(öï©œ
+E
+java:S1121Š".Extract the assignment out of this expression.(×¤»
+E
+java:S1121".Extract the assignment out of this expression.(‡¹®×
+J
+java:S1121š".Extract the assignment out of this expression.(¼§éåüÿÿÿÿ
+J
+java:S1121Ö".Extract the assignment out of this expression.(÷ÉÓşÿÿÿÿ
+r
+java:S1192‹"\Define a constant instead of duplicating this literal "attribute.strokeType.double" 3 times.(äŠ<
+W	java:S107«"<Method has 8 parameters, which is greater than 7 authorized.(ééĞ¬şÿÿÿÿ
+Z
+java:S1134z"DTake the required action to fix the issue indicated by this comment.(¶¢ÇŠ
+F
+java:S1481ö"/Remove this unused "attributes" local variable.(¸®ç¾
+?
+java:S1604ã"(Make this anonymous inner class a lambda(ı…¢€
+A
+java:S1172È"*Remove this unused method parameter "dsp".(–›„î
+v
+java:S1192"ZDefine a constant instead of duplicating this literal "org.jhotdraw.draw.Labels" 19 times.(¸ÿÙÎıÿÿÿÿ
+E
+java:S1121ñ
+".Extract the assignment out of this expression.(¼÷ô¥
+E
+java:S1481õ")Remove this unused "tool" local variable.(âÇàûÿÿÿÿ
+]
+java:S3252¶"AUse static access with "javax.swing.SwingConstants" for "CENTER".(‰ì´ùÿÿÿÿ
+J
+java:S1121£".Extract the assignment out of this expression.(ÍÛÑºşÿÿÿÿ
+E
+java:S1121ü".Extract the assignment out of this expression.(…¥à³
+Ÿ
+java:S1192®"‚Define a constant instead of duplicating this literal "/org/jhotdraw/draw/action/images/attribute.color.colorChooser.png" 3 times.(ıŞÃßùÿÿÿÿ
+=
+java:S1481"&Remove this unused "c" local variable.(æ˜Å‡
+A
+java:S1172á"*Remove this unused method parameter "dsp".(–›„î
+R	java:S107Ö"<Method has 9 parameters, which is greater than 7 authorized.(¶íÒÚ
+?
+java:S1604À"(Make this anonymous inner class a lambda(­Å÷À
+J
+java:S1121‡".Extract the assignment out of this expression.(™¹û†ıÿÿÿÿ
+X
+java:S3252·"AUse static access with "javax.swing.SwingConstants" for "BOTTOM".(Ê¦ğİ
+D
+java:S1121ÿ".Extract the assignment out of this expression.(áã¨<
+E
+java:S1121Ú".Extract the assignment out of this expression.(×¤»
+E
+java:S1121€".Extract the assignment out of this expression.(‹®±Œ
+Q	java:S107«	"<Method has 8 parameters, which is greater than 7 authorized.(´ÓÖO
+R	java:S107´"<Method has 8 parameters, which is greater than 7 authorized.(¶íÒÚ
+E
+java:S1121‰".Extract the assignment out of this expression.(ìºŸ
+J
+java:S1121é".Extract the assignment out of this expression.(ÍÛÑºşÿÿÿÿ
+E
+java:S1121Ñ".Extract the assignment out of this expression.(×¤»
+J
+java:S1121û".Extract the assignment out of this expression.(ÍÛÑºşÿÿÿÿ
+J
+java:S1121ş".Extract the assignment out of this expression.(ñÊú¼úÿÿÿÿ
+E
+java:S1121±".Extract the assignment out of this expression.(÷•Õ¤
+l
+java:S1192ø"PDefine a constant instead of duplicating this literal "toolButtonGroup" 4 times.(–àé—øÿÿÿÿ
+c
+java:S1192‚"LDefine a constant instead of duplicating this literal "toolHandler" 3 times.(Å§Í©
+E
+java:S1121".Extract the assignment out of this expression.(×¤»
+]
+java:S3252Ÿ"AUse static access with "javax.swing.SwingConstants" for "CENTER".(‰ì´ùÿÿÿÿ
+W	java:S125ø"<This block of commented-out lines of code should be removed.(İùÔİÿÿÿÿÿ
+X
+java:S3252 "AUse static access with "javax.swing.SwingConstants" for "BOTTOM".(Ê¦ğİ
+E
+java:S1121‚".Extract the assignment out of this expression.(™¢ç¦
+y
+java:S1192¸"]Define a constant instead of duplicating this literal "attribute.color.colorChooser" 4 times.(ÚÉ†˜ûÿÿÿÿ
+J
+java:S1121‹".Extract the assignment out of this expression.(Ÿ¥•¼ıÿÿÿÿ
+T
+java:S1172©"8Remove this unused method parameter "defaultAttributes".(÷£‹ıÿÿÿÿ
+?
+java:S1604 "(Make this anonymous inner class a lambda(“‚¯
+T
+java:S1172­	"8Remove this unused method parameter "defaultAttributes".(ûƒ§÷ûÿÿÿÿ

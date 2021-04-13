@@ -1,0 +1,31 @@
+
+n	java:S127í"XRefactor the code in order to not assign to this loop counter from within the loop body.(Öª÷½
+]
+java:S2142¡"FEither re-interrupt this method or rethrow the "InterruptedException".(‰éÕ
+n	java:S127í"XRefactor the code in order to not assign to this loop counter from within the loop body.(Öª÷½
+U
+java:S1155Î">Use isEmpty() to check whether the collection is empty or not.(óÙ¿
+O
+java:S5993\"9Change the visibility of this constructor to "protected".(”¿õƒ
+D
+java:S1604Æ"(Make this anonymous inner class a lambda(Ô¶µÿþÿÿÿÿ
+U
+java:S1155†">Use isEmpty() to check whether the collection is empty or not.(¤Ü½É
+f
+java:S1192¬"ODefine a constant instead of duplicating this literal "needsSeparator" 3 times.(ûÛ¸é
+f
+java:S1192e"PDefine a constant instead of duplicating this literal "recentFileCount" 3 times.(°“”÷
+n
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ã˜÷ÿÿÿÿÿ
+C
+java:S1481…"'Remove this unused "mi" local variable.(®ì÷Ãúÿÿÿÿ
+i
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(õ»øì
+K
+java:S3740€"/Provide the parametrized type for this generic.(ŽµŽðýÿÿÿÿ
+h
+java:S1192ó"LDefine a constant instead of duplicating this literal "application" 8 times.(Î­Ã®ýÿÿÿÿ
+U
+java:S1155õ">Use isEmpty() to check whether the collection is empty or not.(¤Ü½É
+K
+java:S3740•"/Provide the parametrized type for this generic.(ŽµŽðýÿÿÿÿ

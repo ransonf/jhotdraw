@@ -32,7 +32,6 @@ public abstract class AbstractRotateHandle extends AbstractHandle {
     private AffineTransform transform;
     private Point2D.Double center;
     private double startTheta;
-    private double startLength;
 
     /**
      * Creates a new instance.

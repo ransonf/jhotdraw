@@ -1,0 +1,22 @@
+
+>
+java:S1604J"(Make this anonymous inner class a lambda(ÌÚ½­
+?
+java:S1604Á"(Make this anonymous inner class a lambda(ÈØ¿»
+?
+java:S1604Ü"(Make this anonymous inner class a lambda(ÈØ¿»
+g
+java:S3252^"QUse static access with "javax.swing.ScrollPaneConstants" for "LOWER_LEFT_CORNER".(Ïö¶Ü
+V	java:S125_"<This block of commented-out lines of code should be removed.(Ü´¸ûÿÿÿÿ
+t
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶™¶úùÿÿÿÿ
+t
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÈù³ÿÿÿÿÿ
+]
+java:S2142Ê"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+\
+java:S2147Î"ECombine this catch with the one at line 202, which has the same body.(åþáÿ
+b
+java:S2142ç"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ
+a
+java:S2147ç"ECombine this catch with the one at line 229, which has the same body.(è®ã¶øÿÿÿÿ

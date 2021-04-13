@@ -80,14 +80,15 @@ public class DefaultColorSliderModel extends AbstractColorSlidersModel {
      */
     @Override
     public void configureSlider(int componentIndex, JSlider slider) {
-        if (slider.getClientProperty("colorSliderModel") != null) {
-            ((DefaultColorSliderModel) slider.getClientProperty("colorSliderModel")).unconfigureSlider(slider);
+        String colorSliderModel = "colorSliderModel";
+        if (slider.getClientProperty(colorSliderModel) != null) {
+            ((DefaultColorSliderModel) slider.getClientProperty(colorSliderModel)).unconfigureSlider(slider);
         }
         if (!(slider.getUI() instanceof ColorSliderUI)) {
             slider.setUI((ColorSliderUI) ColorSliderUI.createUI(slider));
         }
         slider.setModel(getBoundedRangeModel(componentIndex));
-        slider.putClientProperty("colorSliderModel", this);
+        slider.putClientProperty(colorSliderModel, this);
         slider.putClientProperty("colorComponentIndex", componentIndex);
         addColorSlider(slider);
     }

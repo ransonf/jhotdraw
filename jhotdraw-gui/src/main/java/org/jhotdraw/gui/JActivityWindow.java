@@ -278,18 +278,6 @@ public class JActivityWindow extends javax.swing.JFrame {
         }
     }
 
-    private static void invokeAndWait(Runnable r) {
-        if (SwingUtilities.isEventDispatchThread()) {
-            r.run();
-        } else {
-            try {
-                SwingUtilities.invokeAndWait(r);
-            } catch (InterruptedException | InvocationTargetException ex) {
-                ex.printStackTrace();
-            }
-        }
-    }
-
     @Override
     public void dispose() {
         super.dispose();

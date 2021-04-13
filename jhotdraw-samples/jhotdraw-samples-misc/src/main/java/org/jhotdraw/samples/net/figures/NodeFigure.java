@@ -38,10 +38,6 @@ public class NodeFigure extends TextFigure {
 
     private static final long serialVersionUID = 1L;
     private LinkedList<Connector> connectors;
-    private static LocatorConnector north;
-    private static LocatorConnector south;
-    private static LocatorConnector east;
-    private static LocatorConnector west;
 
     /**
      * Creates a new instance.

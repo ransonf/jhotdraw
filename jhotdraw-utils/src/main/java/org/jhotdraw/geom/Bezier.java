@@ -713,18 +713,6 @@ public class Bezier {
     }
 
     /**
-     * Scales the input vector by the specified factor and returns it.
-     * <p>
-     * This method alters the value of the input point!
-     */
-    private static Point2D.Double v2ScaleIII(Point2D.Double v, double s) {
-        Point2D.Double result = new Point2D.Double();
-        result.x = v.x * s;
-        result.y = v.y * s;
-        return result;
-    }
-
-    /**
      * Returns length of input vector.
      */
     private static double v2Length(Point2D.Double a) {
@@ -799,28 +787,5 @@ public class Bezier {
         c.x = a.x - b.x;
         c.y = a.y - b.y;
         return (c);
-    }
-
-    /**
-     * B0, B1, B2, B3 :
-     * Bezier multipliers
-     */
-    private static double b0(double u) {
-        double tmp = 1.0 - u;
-        return (tmp * tmp * tmp);
-    }
-
-    private static double b1(double u) {
-        double tmp = 1.0 - u;
-        return (3 * u * (tmp * tmp));
-    }
-
-    private static double b2(double u) {
-        double tmp = 1.0 - u;
-        return (3 * u * u * tmp);
-    }
-
-    private static double b3(double u) {
-        return (u * u * u);
     }
 }

@@ -1,0 +1,17 @@
+
+Q
+java:S1141 "5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+>
+java:S1604N"(Make this anonymous inner class a lambda(ÌÚ½­
+?
+java:S1604¬"(Make this anonymous inner class a lambda(ÈØ¿»
+?
+java:S1604Û"(Make this anonymous inner class a lambda(ÈØ¿»
+g
+java:S3252b"QUse static access with "javax.swing.ScrollPaneConstants" for "LOWER_LEFT_CORNER".(Ïö¶Ü
+]
+java:S2142µ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+b
+java:S2142æ"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ
+a
+java:S2147æ"ECombine this catch with the one at line 228, which has the same body.(è®ã¶øÿÿÿÿ

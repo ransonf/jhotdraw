@@ -1,0 +1,11 @@
+
+Z
+java:S1596¶">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(Èœ²Íýÿÿÿÿ
+\
+java:S1192)"FDefine a constant instead of duplicating this literal "Plain" 3 times.(Œìý·
+j
+java:S2975¿"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¬ýÇ´
+p
+java:S1210º"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ŽâÍÓ
+m
+java:S3776""RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ž¹ã‰üÿÿÿÿ

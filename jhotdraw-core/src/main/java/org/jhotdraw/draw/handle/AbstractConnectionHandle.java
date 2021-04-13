@@ -32,7 +32,6 @@ import org.jhotdraw.util.*;
 public abstract class AbstractConnectionHandle extends AbstractHandle {
 
     private Connector savedTarget;
-    private Connector connectableConnector;
     private Figure connectableFigure;
     private Point start;
     /**

@@ -29,7 +29,6 @@ import org.jhotdraw.util.*;
 public class SVGRectRadiusHandle extends AbstractHandle {
 
     private static final boolean DEBUG = false;
-    private static final int OFFSET = 6;
     private Dimension2DDouble originalArc2D;
 
     /**

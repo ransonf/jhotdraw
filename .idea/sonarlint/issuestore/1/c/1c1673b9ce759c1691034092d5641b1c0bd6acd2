@@ -1,0 +1,14 @@
+
+g
+java:S1301›"KReplace this "switch" statement by "if" statements to increase readability.(¹ºÜ‹ÿÿÿÿÿ
+g
+java:S1301¯"KReplace this "switch" statement by "if" statements to increase readability.(¹ºÜ‹ÿÿÿÿÿ
+P	java:S125h"<This block of commented-out lines of code should be removed.(¢Éq
+o
+java:S2293q"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡¡åğ
+W	java:S125"<This block of commented-out lines of code should be removed.(Ú®Ÿäûÿÿÿÿ
+i
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÓÌÂ¯
+p
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ëõ¤
+R	java:S125¾"<This block of commented-out lines of code should be removed.(Õ¿ä

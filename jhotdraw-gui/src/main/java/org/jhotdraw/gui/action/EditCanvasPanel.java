@@ -56,13 +56,6 @@ public class EditCanvasPanel extends javax.swing.JPanel {
         opacitySliderHandler = new DrawingAttributeEditorHandler<>(CANVAS_FILL_OPACITY, opacitySlider, null);
     }
 
-    private JColorChooser getColorChooser() {
-        if (colorChooser == null) {
-            colorChooser = new JColorChooser();
-        }
-        return colorChooser;
-    }
-
     /**
      * Sets the GridConstrainer to be edited by this panel.
      *
@@ -165,7 +158,6 @@ public class EditCanvasPanel extends javax.swing.JPanel {
         }
 }//GEN-LAST:event_colorButtonPerformed
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.ButtonGroup bgColorButtonGroup;
     private javax.swing.JButton colorButton;
     private javax.swing.JLabel colorLabel;
     private org.jhotdraw.draw.gui.JAttributeTextField opacityField;

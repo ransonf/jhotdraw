@@ -157,16 +157,6 @@ public class BezierNodeHandle extends AbstractHandle {
         figure.changed();
     }
 
-    private void fireAreaInvalidated(BezierPath.Node v) {
-        Rectangle2D.Double dr = new Rectangle2D.Double(v.x[0], v.y[0], 0, 0);
-        for (int i = 1; i < 3; i++) {
-            dr.add(v.x[i], v.y[i]);
-        }
-        Rectangle vr = view.drawingToView(dr);
-        vr.grow(getHandlesize(), getHandlesize());
-        fireAreaInvalidated(vr);
-    }
-
     @Override
     public void trackEnd(Point anchor, Point lead, int modifiersEx) {
         final BezierFigure f = getOwner();

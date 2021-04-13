@@ -1,0 +1,35 @@
+
+˜
+java:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘¬»Ï
+N
+java:S1135Ï"2Complete the task associated to this TODO comment.(ÆÉ¹ÿÿÿÿÿ
+Q	java:S125m"<This block of commented-out lines of code should be removed.(Ú¤ö®
+W
+java:S3252Ã"AUse static access with "javax.swing.SwingConstants" for "CENTER".(íßÍ#
+i
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÉÙ 
+[
+java:S1124\"EReorder the modifiers to comply with the Java Language Specification.(¯¢
+n
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ì“çûÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(š—æ©ûÿÿÿÿ
+—
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æ»†P
+
+java:S1186¤"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ë¤Î½øÿÿÿÿ
+˜
+java:S1186ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›™¥…
+`
+java:S1124]"EReorder the modifiers to comply with the Java Language Specification.(ÿÍÓÌşÿÿÿÿ
+t	java:S135Í"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+D
+java:S1604ê"(Make this anonymous inner class a lambda(ï¯ÿ¨ıÿÿÿÿ
+M
+java:S1135k"2Complete the task associated to this TODO comment.(é»¸£úÿÿÿÿ
+P
+java:S5993­"9Change the visibility of this constructor to "protected".(İş‘û
+N
+java:S1135ä"2Complete the task associated to this TODO comment.(èŸÃÇûÿÿÿÿ
+˜
+java:S1186—"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚Œ®

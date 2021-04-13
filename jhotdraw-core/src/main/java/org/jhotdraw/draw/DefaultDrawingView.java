@@ -70,6 +70,7 @@ public class DefaultDrawingView
     private DrawingEditor editor;
     private JLabel emptyDrawingLabel;
     protected BufferedImage backgroundTile;
+    private EventHandler eventHandler;
     private FigureListener handleInvalidator = new FigureAdapter() {
         @Override
         public void figureHandlesChanged(FigureEvent e) {
@@ -291,7 +292,6 @@ public class DefaultDrawingView
         public void figureRequestRemove(FigureEvent e) {
         }
     }
-    private EventHandler eventHandler;
 
     /**
      * Creates new instance.

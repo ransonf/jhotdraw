@@ -211,13 +211,6 @@ public class SVGApplet extends JApplet {
     }
 
     /**
-     * Gets the drawing from the drawing panel.
-     */
-    private Drawing getDrawing() {
-        return drawingComponent.getDrawing();
-    }
-
-    /**
      * Gets the version of the applet.
      */
     public String getVersion() {

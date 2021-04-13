@@ -24,6 +24,7 @@ public class FontFaceNode implements MutableTreeNode, Comparable<FontFaceNode>, 
     private FontFamilyNode parent;
     private Font typeface;
     private String name;
+    private String notAllowed = "Not allowed.";
 
     public FontFaceNode(Font typeface) {
         this.typeface = typeface;
@@ -115,22 +116,22 @@ public class FontFaceNode implements MutableTreeNode, Comparable<FontFaceNode>, 
 
     @Override
     public void insert(MutableTreeNode child, int index) {
-        throw new UnsupportedOperationException("Not allowed.");
+        throw new UnsupportedOperationException(notAllowed);
     }
 
     @Override
     public void remove(int index) {
-        throw new UnsupportedOperationException("Not allowed.");
+        throw new UnsupportedOperationException(notAllowed);
     }
 
     @Override
     public void remove(MutableTreeNode node) {
-        throw new UnsupportedOperationException("Not allowed.");
+        throw new UnsupportedOperationException(notAllowed);
     }
 
     @Override
     public void setUserObject(Object object) {
-        throw new UnsupportedOperationException("Not allowed.");
+        throw new UnsupportedOperationException(notAllowed);
     }
 
     @Override

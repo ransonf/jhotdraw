@@ -1,0 +1,15 @@
+
+`
+java:S3252("EUse static access with "java.awt.color.ColorSpace" for "getInstance".(äÏªÎÿÿÿÿÿ
+W
+java:S18544"<Remove this useless assignment to local variable "oldValue".(¼çéþÿÿÿÿ
+>
+java:S1604B"(Make this anonymous inner class a lambda(ç­ƒ÷
+V	java:S125g"<This block of commented-out lines of code should be removed.(€ÿÇŽûÿÿÿÿ
+g
+java:S1192S"QDefine a constant instead of duplicating this literal "colorSliderModel" 3 times.(ƒéºÙ
+\
+java:S3252("AUse static access with "java.awt.color.ColorSpace" for "CS_sRGB".(äÏªÎÿÿÿÿÿ
+O	java:S106¯"9Replace this use of System.out or System.err by a logger.(²Õ‡˜
+H
+java:S14814"-Remove this unused "oldValue" local variable.(¼çéþÿÿÿÿ

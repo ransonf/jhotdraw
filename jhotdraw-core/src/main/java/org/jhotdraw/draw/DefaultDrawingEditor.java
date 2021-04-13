@@ -49,6 +49,14 @@ public class DefaultDrawingEditor extends AbstractBean implements DrawingEditor 
     private DrawingView activeView;
     private boolean isEnabled = true;
     private ToolHandler toolHandler;
+    /**
+     * The input map of the drawing editor.
+     */
+    private InputMap inputMap;
+    /**
+     * The action map of the drawing editor.
+     */
+    private ActionMap actionMap;
 
     private class ToolHandler extends ToolAdapter {
 
@@ -74,14 +82,7 @@ public class DefaultDrawingEditor extends AbstractBean implements DrawingEditor 
             }
         }
     }
-    /**
-     * The input map of the drawing editor.
-     */
-    private InputMap inputMap;
-    /**
-     * The action map of the drawing editor.
-     */
-    private ActionMap actionMap;
+
     /**
      * The focus handler.
      */

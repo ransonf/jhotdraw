@@ -86,7 +86,6 @@ public class JFontChooser extends JComponent {
      * Return value if an error occured.
      */
     public static final int ERROR_OPTION = -1;
-    private int returnValue = ERROR_OPTION;
     // DIALOG
     private JDialog dialog = null;
     /**

@@ -65,7 +65,6 @@ public class DnDTracker extends AbstractTool implements DragTracker {
      * the Constrainer of the DrawingView.
      */
     protected Point2D.Double anchorPoint;
-    private boolean isDragging;
 
     public DnDTracker() {
     }

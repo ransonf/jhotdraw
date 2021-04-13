@@ -1,0 +1,38 @@
+
+A
+java:S1181·"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+@
+java:S1181O"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(‰éÕ
+U
+java:S1596¥">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(üµ³¹
+Z
+java:S1596¦">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(ñâäÝùÿÿÿÿ
+J
+java:S1121Š".Extract the assignment out of this expression.(˜“‰ïýÿÿÿÿ
+P	java:S125V"<This block of commented-out lines of code should be removed.(Í³Ÿ#
+e
+java:S3252÷"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ
+O
+java:S1144ï"3Remove this unused private "initComponents" method.(ü·úÿÿÿÿ
+F
+java:S2093³"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E
+java:S1874%"/Remove this use of "JApplet"; it is deprecated.(£åõˆ
+@
+java:S1181E"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+_
+java:S1192`"IDefine a constant instead of duplicating this literal "datafile" 4 times.(©øÅ
+I
+java:S1121z".Extract the assignment out of this expression.(˜“‰ïýÿÿÿÿ
+u
+java:S1450‚"^Remove the "toolButtonGroup" field and declare it as a local variable in the relevant methods.(—ŠÊô
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(©øÅ
+J
+java:S1068‚"3Remove this unused "toolButtonGroup" private field.(—ŠÊô
+F
+java:S2093Æ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+D
+java:S1604ó"(Make this anonymous inner class a lambda(Ô¶µÿþÿÿÿÿ
+Q	java:S110%"<This class has 6 parents which is greater than 5 authorized.(£åõˆ

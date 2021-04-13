@@ -1,0 +1,35 @@
+
+Q	java:S1106"<This class has 6 parents which is greater than 5 authorized.(«ğÖÜ
+>
+java:S1604f"(Make this anonymous inner class a lambda(»Ñ›
+t
+java:S1450û"XRemove the "infoPanel" field and declare it as a local variable in the relevant methods.(½¨‘¬ùÿÿÿÿ
+t
+java:S1450ı"XRemove the "separator" field and declare it as a local variable in the relevant methods.(õÃ§¥ıÿÿÿÿ
+p
+java:S1450ş"YRemove the "strutPanel" field and declare it as a local variable in the relevant methods.(“ı Œ
+J
+java:S1948<"/Make "activityOwner" transient or serializable.(²èÃ‡şÿÿÿÿ
+?
+java:S1948|")Make "handler" transient or serializable.(ïóî‘
+Z
+java:S1134A"DTake the required action to fix the issue indicated by this comment.(Ü Ê£
+Z
+java:S1134H"DTake the required action to fix the issue indicated by this comment.(Ü Ê£
+Z
+java:S1134O"DTake the required action to fix the issue indicated by this comment.(Ü Ê£
+Z
+java:S3358a"DExtract this nested ternary operation into an independent statement.(Œ¶øÎ
+r
+java:S3923o"]This conditional operation returns the same value whether the condition is "true" or "false".(•÷G
+W	java:S125–"<This block of commented-out lines of code should be removed.(ùÍõÚûÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(æ’ş…øÿÿÿÿ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(æ’ş…øÿÿÿÿ
+F
+java:S1172ë"*Remove this unused method parameter "evt".(ß¿Ä¦şÿÿÿÿ
+A
+java:S1172ï"*Remove this unused method parameter "evt".(ÎµÊê
+A
+java:S3398ë"%Move this method into "FormListener".(ß¿Ä¦şÿÿÿÿ
+<
+java:S3398ï"%Move this method into "FormListener".(ÎµÊê

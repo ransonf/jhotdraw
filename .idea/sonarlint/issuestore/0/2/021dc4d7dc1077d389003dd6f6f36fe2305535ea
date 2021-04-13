@@ -1,0 +1,50 @@
+
+f
+java:S1192v"PDefine a constant instead of duplicating this literal "edit.paste.text" 3 times.(ä««
+o
+java:S1192u"YDefine a constant instead of duplicating this literal "org.jhotdraw.draw.Labels" 4 times.(Øªáí
+P
+java:S1141f"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141”"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+—
+java:S1186>"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(î×ùÆ
+h
+java:S3776Q"RRefactor this method to reduce its Cognitive Complexity from 92 to the 15 allowed.(İ½ŠÃ
+A
+java:S1181ı"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+V
+java:S1119b";Refactor the code to remove this label and the need for it.(Ğå‚üÿÿÿÿ
+W
+java:S1119";Refactor the code to remove this label and the need for it.(ÇÎñœÿÿÿÿÿ
+E
+java:S1125¿")Remove the literal "false" boolean value.(€êæÀşÿÿÿÿ
+0
+java:S1065É"Remove this unused label.(ùŠš©
+R
+java:S1119É";Refactor the code to remove this label and the need for it.(ùŠš©
+]
+java:S2142ö"FEither re-interrupt this method or rethrow the "InterruptedException".(‰éÕ
+R	java:S125’"<This block of commented-out lines of code should be removed.(í–üê
+n
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Øñ®ìûÿÿÿÿ
+i
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(³Ê¿’
+W	java:S125ù"<This block of commented-out lines of code should be removed.(ŸÑÔÈıÿÿÿÿ
+˜
+java:S1186ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æ¼ë¾
+W
+java:S1119á";Refactor the code to remove this label and the need for it.(Ğå‚üÿÿÿÿ
+˜
+java:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ë²é®
+˜
+java:S1186³"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÀÔ³¢
+˜
+java:S1186º"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±«Ÿ˜
+
+java:S1186Î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø–ßÀûÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(óËá¤øÿÿÿÿ
+˜
+java:S1186å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(â›…õ
+˜
+java:S1186î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä—±£

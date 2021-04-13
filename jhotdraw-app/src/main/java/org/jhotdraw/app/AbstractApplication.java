@@ -425,9 +425,10 @@ public abstract class AbstractApplication extends AbstractBean implements Applic
      */
     protected void addAction(JMenu m, Action a) {
         if (a != null) {
-            if (m.getClientProperty("needsSeparator") == Boolean.TRUE) {
+            String separator = "needsSeparator";
+            if (m.getClientProperty(separator) == Boolean.TRUE) {
                 m.addSeparator();
-                m.putClientProperty("needsSeparator", null);
+                m.putClientProperty(separator, null);
             }
             JMenuItem mi;
             mi = m.add(a);

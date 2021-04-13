@@ -42,8 +42,6 @@ public class PrintApplicationFileAction extends PrintFileAction {
 
     private static final long serialVersionUID = 1L;
     public static final String ID = "application.printFile";
-    private JFileChooser fileChooser;
-    private int entries;
 
     /**
      * Creates a new instance.

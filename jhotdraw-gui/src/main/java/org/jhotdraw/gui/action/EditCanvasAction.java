@@ -32,7 +32,6 @@ public class EditCanvasAction extends AbstractDrawingViewAction {
     public static final String ID = "view.editCanvas";
     private JFrame frame;
     private EditCanvasPanel settingsPanel;
-    private PropertyChangeListener propertyChangeHandler;
     private Application app;
 
     /**

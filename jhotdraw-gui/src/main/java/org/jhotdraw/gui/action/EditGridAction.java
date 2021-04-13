@@ -33,7 +33,6 @@ public class EditGridAction extends AbstractDrawingViewAction {
     public static final String ID = "view.editGrid";
     private JDialog dialog;
     private EditGridPanel settingsPanel;
-    private PropertyChangeListener propertyChangeHandler;
     private Application app;
 
     /**

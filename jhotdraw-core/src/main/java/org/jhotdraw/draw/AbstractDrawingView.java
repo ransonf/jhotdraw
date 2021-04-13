@@ -88,7 +88,6 @@ import org.jhotdraw.util.ReversedList;
  */
 public abstract class AbstractDrawingView implements DrawingView, EditableComponent {
 
-    private static final Logger LOG = Logger.getLogger(AbstractDrawingView.class.getName());
     private Drawing drawing;
     private transient final PropertyChangeSupport propertyChangeSupport = new PropertyChangeSupport(this);
     private transient final EventListenerList listenerList = new EventListenerList();
@@ -114,6 +113,7 @@ public abstract class AbstractDrawingView implements DrawingView, EditableCompon
     private JLabel emptyDrawingLabel;
     private boolean paintBackground = true;
     protected BufferedImage backgroundTile;
+    private boolean paintEnabled = true;
     private final FigureListener handleInvalidator = new FigureAdapter() {
         @Override
         public void figureHandlesChanged(FigureEvent e) {
@@ -121,14 +121,10 @@ public abstract class AbstractDrawingView implements DrawingView, EditableCompon
         }
     };
 
+
     public boolean isPaintBackground() {
         return paintBackground;
     }
-
-    public void setPaintBackground(boolean paintBackground) {
-        this.paintBackground = paintBackground;
-    }
-    private boolean paintEnabled = true;
 
     @Override
     public void repaintHandles() {

@@ -470,10 +470,6 @@ public class PaletteTabbedPaneUI extends BasicTabbedPaneUI {
         return nudge;
     }
 
-    private boolean scrollableTabLayoutEnabled() {
-        return tabPane.getTabLayoutPolicy() == JTabbedPane.SCROLL_TAB_LAYOUT;
-    }
-
     @Override
     protected LayoutManager createLayoutManager() {
         if (tabPane.getTabLayoutPolicy() == JTabbedPane.SCROLL_TAB_LAYOUT) {

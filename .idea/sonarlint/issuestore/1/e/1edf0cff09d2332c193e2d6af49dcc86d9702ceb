@@ -1,0 +1,341 @@
+
+ƒ
+java:S1130†"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¹£ş
+u
+java:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸Õİúÿÿÿÿ
+o
+java:S1104€"XMake numberFactor a static final constant or non-public and provide accessors if needed.(¹¾Ê­
+F
+java:S1066Ü"/Merge this if statement with the enclosing one.(°¾âŸ
+T	java:S106ö"9Replace this use of System.out or System.err by a logger.(’…üüÿÿÿÿ
+p
+java:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+p
+java:S2293õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+z
+java:S1157—"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ÈÒĞë
+W	java:S125«"<This block of commented-out lines of code should be removed.(¨¢ÇŠùÿÿÿÿ
+p
+java:S2293ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+R	java:S125§"<This block of commented-out lines of code should be removed.(íÖ„Æ
+B
+java:S1172ò"&Remove these unused method parameters.(Íü‚úÿÿÿÿ
+N	java:S106ø"9Replace this use of System.out or System.err by a logger.(Êîk
+R	java:S125Â"<This block of commented-out lines of code should be removed.(¾è°
+?
+java:S1172…"(Remove this unused method parameter "f".(çÂ“Ê
+p
+java:S2293¥
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(úÃìÂ
+7
+java:S1659Î" Declare "cx" on a separate line.(Ù¨õ¸
+k
+java:S1192 "ODefine a constant instead of duplicating this literal "stroke-linecap" 3 times.(‘úÜÀùÿÿÿÿ
+c
+java:S1192Û"GDefine a constant instead of duplicating this literal "inline" 5 times.(Ş»œõûÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+N	java:S106ö"9Replace this use of System.out or System.err by a logger.(Êîk
+z
+java:S1104{"_Make heightPercentFactor a static final constant or non-public and provide accessors if needed.( Ì—èÿÿÿÿÿ
+O	java:S106İ"9Replace this use of System.out or System.err by a logger.(”Øç¸
+u
+java:S2293¾"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëÌŞãùÿÿÿÿ
+[
+java:S1134Ï"DTake the required action to fix the issue indicated by this comment.(¶¹Š‡
+n
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(…×£‡ùÿÿÿÿ
+T	java:S106÷"9Replace this use of System.out or System.err by a logger.(şÖ’„ÿÿÿÿÿ
+i
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(Ã¥Ş€
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(è–¤üÿÿÿÿ
+i
+java:S1192†	"MDefine a constant instead of duplicating this literal "currentcolor" 3 times.(Î‚’±ÿÿÿÿÿ
+|
+java:S1192É"fDefine a constant instead of duplicating this literal "SVGInputFormat not implemented  fill=" 3 times.(®™¿
+v
+java:S4165–"_Remove this useless assignment; "f" already holds the assigned value along all execution paths.(¨ß†²
+p
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜ÏÍÜ
+u
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸñÜïùÿÿÿÿ
+M
+java:S2692§"10 is a valid index, but is ignored by this check.(õ¿¾°ıÿÿÿÿ
+F
+java:S2093¿"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+]
+java:S1192²"FDefine a constant instead of duplicating this literal "start" 3 times.(‡ªÛÏ
+p
+java:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆÄş÷
+[
+java:S1134¦"DTake the required action to fix the issue indicated by this comment.(£·ëš
+O	java:S106á"9Replace this use of System.out or System.err by a logger.(šŠñ
+N	java:S106Ş"9Replace this use of System.out or System.err by a logger.(¨±?
+b
+java:S1192†	"FDefine a constant instead of duplicating this literal "color" 4 times.(Î‚’±ÿÿÿÿÿ
+v
+java:S4165›"_Remove this useless assignment; "f" already holds the assigned value along all execution paths.(¨ß†²
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(¢Åæİ
+z
+java:S1157À"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(©ˆñ
+`
+java:S1134£"DTake the required action to fix the issue indicated by this comment.(Éêİ¹ÿÿÿÿÿ
+Z
+java:S1134P"DTake the required action to fix the issue indicated by this comment.(Ä³Œ¹
+R	java:S125æ"<This block of commented-out lines of code should be removed.(Öë£¯
+
+java:S1157†	"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Î‚’±ÿÿÿÿÿ
+z
+java:S1157‚"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(©ˆñ
+h
+java:S1104s"SMake viewBox a static final constant or non-public and provide accessors if needed.(ÒŒB
+n
+java:S1450¡"WRemove the "document" field and declare it as a local variable in the relevant methods.(ºŠ–
+o
+java:S2139ï"XEither log this exception and handle it, or rethrow it with some contextual information.(¶ùø
+i
+java:S1192Í"MDefine a constant instead of duplicating this literal "stroke-width" 3 times.(˜·àùÿÿÿÿ
+n
+java:S1192ú"RDefine a constant instead of duplicating this literal "objectBoundingBox" 4 times.(¦ƒòşÿÿÿÿ
+p
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+g
+java:S1192ğ"KDefine a constant instead of duplicating this literal "xlink:href" 5 times.(›ÄÃäøÿÿÿÿ
+O	java:S106ï"9Replace this use of System.out or System.err by a logger.(¾ÙÀÍ
+R	java:S125ğ"<This block of commented-out lines of code should be removed.(íÖ„Æ
+i
+java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(üÒç»
+ƒ
+java:S1130—
+"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(˜Ëï
+Z
+java:S2259“"CA "NullPointerException" could be thrown; "color" is nullable here.(ù¢ã
+c
+java:S1192Ê"GDefine a constant instead of duplicating this literal "normal" 3 times.(äò“ùÿÿÿÿ
+O	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(¬¸í¶
+F
+java:S1066¹"/Merge this if statement with the enclosing one.(›°è¡
+d
+java:S1192Õ"MDefine a constant instead of duplicating this literal "fill-opacity" 3 times.(ÑÿÏ­
+i
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(½°Öë
+q
+java:S1488§"[Immediately return this expression instead of assigning it to the temporary variable "obj".(€°âw
+_
+java:S1192Ú"HDefine a constant instead of duplicating this literal "visible" 8 times.(Šãş—
+l
+java:S1149ù"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¸Õİúÿÿÿÿ
+O	java:S106Â"9Replace this use of System.out or System.err by a logger.(ßÀ—ä
+p
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+p
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+T	java:S106¨"9Replace this use of System.out or System.err by a logger.(¡™­Íøÿÿÿÿ
+7
+java:S1659Î" Declare "cy" on a separate line.(Ù¨õ¸
+O	java:S106¦"9Replace this use of System.out or System.err by a logger.(ó¬‰á
+h
+java:S1104o"RMake height a static final constant or non-public and provide accessors if needed.(Íƒ™
+R	java:S125é"<This block of commented-out lines of code should be removed.(£ü¡è
+L
+java:S1481Ç"0Remove this unused "childFigure" local variable.( †ÖÚüÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(‘ÈÏ²ûÿÿÿÿ
+F
+java:S1066‹"/Merge this if statement with the enclosing one.(›°è¡
+T
+java:S3878Ó"8Remove this array creation and simply pass the elements.(óã¿Şùÿÿÿÿ
+R	java:S125ú"<This block of commented-out lines of code should be removed.(³ÿÃè
+W	java:S125«	"<This block of commented-out lines of code should be removed.(Æ³ËÆıÿÿÿÿ
+?
+java:S1172Ú"(Remove this unused method parameter "a".(Ö”´
+G
+java:S1172Ï
+"+Remove this unused method parameter "elem".(×–˜âÿÿÿÿÿ
+v
+java:S4165‚"_Remove this useless assignment; "f" already holds the assigned value along all execution paths.(¨ß†²
+b
+java:S1192–"FDefine a constant instead of duplicating this literal "width" 5 times.(´·ûÀøÿÿÿÿ
+n
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ï´Şîùÿÿÿÿ
+p
+java:S1488×"YImmediately return this expression instead of assigning it to the temporary variable "c".(˜Öé¸
+ˆ
+java:S1130÷"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(°Îü¡şÿÿÿÿ
+n
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(İ«Ÿëûÿÿÿÿ
+c
+java:S1192ì"GDefine a constant instead of duplicating this literal "stroke" 3 times.(’Èñûúÿÿÿÿ
+R
+java:S1119å
+";Refactor the code to remove this label and the need for it.(½ã²‰
+<
+java:S1659´" Declare "ty" on a separate line.(¥Ò±°ùÿÿÿÿ
+y
+java:S1104w"^Make widthPercentFactor a static final constant or non-public and provide accessors if needed.(§ÙÛ¨üÿÿÿÿ
+p
+java:S2293û"YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+R	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¬¸í¶
+[
+java:S1134ã"DTake the required action to fix the issue indicated by this comment.(¹Äª—
+g
+java:S1192‚"QDefine a constant instead of duplicating this literal "stroke-dasharray" 3 times.(±¤Ù)
+i
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 77 to the 15 allowed.(ööÛä
+ˆ
+java:S1130‰"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(­ÄìÀøÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(Ö»âçúÿÿÿÿ
+N	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(®™¿
+T	java:S106è"9Replace this use of System.out or System.err by a logger.(ŸÄÁÉşÿÿÿÿ
+g
+java:S1149”"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(úùÎç
+O	java:S106½"9Replace this use of System.out or System.err by a logger.(â·Ö
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(Î‘œÿÿÿÿÿ
+p
+java:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(¾Å«ğÿÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(ë¬Šêûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(È¬áøÿÿÿÿ
+b
+java:S1192‡"FDefine a constant instead of duplicating this literal "black" 7 times.(æş‹Ôùÿÿÿÿ
+W	java:S125õ"<This block of commented-out lines of code should be removed.(›¹¬Œúÿÿÿÿ
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(±ÉáÒşÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ÙûÊôÿÿÿÿÿ
+O	java:S106ú"9Replace this use of System.out or System.err by a logger.(ñÙÅ
+K
+java:S1066¦"/Merge this if statement with the enclosing one.(ó‹ûˆıÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÓÁµü
+p
+java:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ©ôó
+`
+java:S1134¶"DTake the required action to fix the issue indicated by this comment.(‹Ö¾Šüÿÿÿÿ
+p
+java:S2293Ğ
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ÃËø
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(ÃöˆËûÿÿÿÿ
+T	java:S106¬"9Replace this use of System.out or System.err by a logger.(¹ê¯ıÿÿÿÿ
+U
+java:S1854Õ"9Remove this useless assignment to local variable "value".(ê¡Ÿüÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(¨¢ÇŠùÿÿÿÿ
+F
+java:S1066ÿ"/Merge this if statement with the enclosing one.(°¾âŸ
+p
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+a
+java:S1192à"JDefine a constant instead of duplicating this literal "fill-rule" 3 times.(§„Í
+p
+java:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+O	java:S106º"9Replace this use of System.out or System.err by a logger.(ƒáïÈ
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(£Ççóúÿÿÿÿ
+N	java:S106É"9Replace this use of System.out or System.err by a logger.(®™¿
+u
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ïù©Şüÿÿÿÿ
+b
+java:S1192Ë"FDefine a constant instead of duplicating this literal "style" 3 times.(ÈÊšùÿÿÿÿ
+^
+java:S1192—"GDefine a constant instead of duplicating this literal "height" 5 times.(ÂßïÏ
+ˆ
+java:S1130
+"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(àƒ¹‡ÿÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(¨¢ÇŠùÿÿÿÿ
+R	java:S125µ"<This block of commented-out lines of code should be removed.(Ö¹’Ğ
+O	java:S106ã"9Replace this use of System.out or System.err by a logger.(èğş
+W	java:S125è"<This block of commented-out lines of code should be removed.(óíÛæÿÿÿÿÿ
+J
+java:S2755â"3Disable access to external entities in XML parsing.(ğ¨ºî
+O	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(ÉÉõš
+p
+java:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+p
+java:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+i
+java:S1192”"RDefine a constant instead of duplicating this literal "stroke-dashoffset" 3 times.(İÃÓ¾
+l
+java:S1104k"QMake width a static final constant or non-public and provide accessors if needed.(¯öÇøÿÿÿÿ
+i
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¶¯ÁÛ
+p
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+T	java:S106ò"9Replace this use of System.out or System.err by a logger.(‹Ò”Àûÿÿÿÿ
+p
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+<
+java:S1659Á" Declare "sy" on a separate line.(§ÏéÌùÿÿÿÿ
+f
+java:S1192Â"ODefine a constant instead of duplicating this literal "stroke-opacity" 3 times.(ßÑ¤ï
+=	java:S131®
+""Add a default case to this switch.(¹ºÜ‹ÿÿÿÿÿ
+g
+java:S1192«"PDefine a constant instead of duplicating this literal "stroke-linejoin" 3 times.(²äçù
+T	java:S106Ç"9Replace this use of System.out or System.err by a logger.(¡™­Íøÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(æ‘ÿ’şÿÿÿÿ
+R
+java:S1117â";Rename "factory" which hides the field declared at line 74.(ğ¨ºî
+n
+java:S1192¶"RDefine a constant instead of duplicating this literal "stroke-miterlimit" 3 times.(ê–ï÷ûÿÿÿÿ
+b
+java:S1192ó"FDefine a constant instead of duplicating this literal "tspan" 3 times.(²ˆèüÿÿÿÿÿ
+[
+java:S1854Ç"?Remove this useless assignment to local variable "childFigure".( †ÖÚüÿÿÿÿ
+H
+java:S2692¤"10 is a valid index, but is ignored by this check.(‡ªı
+o
+java:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(û§óx
+F
+java:S1066Ï"/Merge this if statement with the enclosing one.(°¾âŸ
+h
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(œÛ¤2
+R	java:S125 "<This block of commented-out lines of code should be removed.(³Ô—–
+`
+java:S1134€"DTake the required action to fix the issue indicated by this comment.(¤İçÍÿÿÿÿÿ
+v
+java:S4165"_Remove this useless assignment; "f" already holds the assigned value along all execution paths.(¨ß†²
+ƒ
+java:S1130ó"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¹£ş
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(ÚÉš‘ùÿÿÿÿ
+T	java:S106Ü"9Replace this use of System.out or System.err by a logger.(§Êå–ıÿÿÿÿ
+ƒ
+java:S1130Û"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¹£ş
+o
+java:S3776Ï
+"SRefactor this method to reduce its Cognitive Complexity from 206 to the 15 allowed.(×–˜âÿÿÿÿÿ
+p
+java:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(’§ôÖ
+W	java:S125ş"<This block of commented-out lines of code should be removed.(½ÙÛúÿÿÿÿ
+d
+java:S1192Û"HDefine a constant instead of duplicating this literal "display" 5 times.(Ş»œõûÿÿÿÿ
+o
+java:S2139æ"XEither log this exception and handle it, or rethrow it with some contextual information.(‚°„–
+n	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¢ğÃ+
+Z
+java:S2130¨	">Use "Double.parseDouble" for this string-to-double conversion.(Óœ´¡ıÿÿÿÿ
+p
+java:S1488™"YImmediately return this expression instead of assigning it to the temporary variable "c".(˜Öé¸
+i
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¸Ë
+b
+java:S1192Ú"KDefine a constant instead of duplicating this literal "visibility" 5 times.(Šãş—
+i
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(«Èú³
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(ê¾ïøûÿÿÿÿ
+i
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÁÇÊ”
+G
+java:S1172÷"+Remove this unused method parameter "elem".(°Îü¡şÿÿÿÿ
+Z
+java:S2130ù">Use "Double.parseDouble" for this string-to-double conversion.(€Ìé¼üÿÿÿÿ
+R
+java:S1854ä
+";Remove this useless assignment to local variable "command".(‡•üµ
+R	java:S125"<This block of commented-out lines of code should be removed.(¾è°
+}
+java:S1104…"aMake isPreserveAspectRatio a static final constant or non-public and provide accessors if needed.(™­ûåøÿÿÿÿ
+R
+java:S1144…";Remove this unused private "readGraphicsAttributes" method.(çÂ“Ê
+d
+java:S1192Ù"HDefine a constant instead of duplicating this literal "inherit" 7 times.(šñ‘ùøÿÿÿÿ
+N	java:S106Ë"9Replace this use of System.out or System.err by a logger.(®™¿
+n
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¨ƒïİüÿÿÿÿ
+T	java:S106ô"9Replace this use of System.out or System.err by a logger.(¾†‘Ğøÿÿÿÿ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(åŠåÄûÿÿÿÿ

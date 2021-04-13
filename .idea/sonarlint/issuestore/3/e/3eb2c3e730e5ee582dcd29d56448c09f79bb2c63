@@ -1,0 +1,15 @@
+
+F
+java:S1066ö"/Merge this if statement with the enclosing one.(…—’®
+S
+java:S2589Û"7Remove this expression which always evaluates to "true"(åØÍûúÿÿÿÿ
+T
+java:S2589Ü"8Remove this expression which always evaluates to "false"(ÄŠúÿÿÿÿ
+T
+java:S5993*"9Change the visibility of this constructor to "protected".(ÇÄÌşÿÿÿÿÿ
+7
+java:S23268"T is not used in the method.(ÀŒ‹Çÿÿÿÿÿ
+o
+java:S2975Ç"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¨©í›şÿÿÿÿ
+B
+java:S1452€"&Remove usage of generic wildcard type.(ÎÑ©üÿÿÿÿ

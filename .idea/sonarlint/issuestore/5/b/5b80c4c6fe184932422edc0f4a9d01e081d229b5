@@ -1,0 +1,61 @@
+
+d
+java:S1192B"IDefine a constant instead of duplicating this literal "datafile" 3 times.(ã‰›Òúÿÿÿÿ
+_
+java:S1192x"IDefine a constant instead of duplicating this literal "dataread" 4 times.(óÆÒ£
+e
+java:S1192y"JDefine a constant instead of duplicating this literal "datawrite" 3 times.(”É‚‚ûÿÿÿÿ
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(¥ğ­¤
+o
+java:S1450"XRemove the "jToolBar1" field and declare it as a local variable in the relevant methods.(Æ³š
+u
+java:S1450“"^Remove the "toolButtonGroup" field and declare it as a local variable in the relevant methods.(—ŠÊô
+E
+java:S1874"/Remove this use of "JApplet"; it is deprecated.(¥ğ­¤
+h
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.( Üó
+@
+java:S1181,"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+V	java:S1255"<This block of commented-out lines of code should be removed.(ûÉÿüÿÿÿÿÿ
+\
+java:S2142_"FEither re-interrupt this method or rethrow the "InterruptedException".(‰éÕ
+@
+java:S1181u"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+G
+java:S2692|"10 is a valid index, but is ignored by this check.(Ğí•
+G
+java:S1874"1Remove this use of "getWindow"; it is deprecated.(É“ï
+7
+java:S3878€"Remove this array creation.(›—íáøÿÿÿÿ
+A
+java:S1181˜"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+F
+java:S2093•"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+F
+java:S2093§"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+A
+java:S1172ë"*Remove this unused method parameter "evt".(£˜øé
+A
+java:S1181ó"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+H
+java:S2692î"10 is a valid index, but is ignored by this check.(Ğí•
+H
+java:S1874ñ"1Remove this use of "getWindow"; it is deprecated.(ÌÊõŠ
+O
+java:S3878ò"8Remove this array creation and simply pass the elements.(Í»£
+F
+java:S1172û"*Remove this unused method parameter "evt".(ûÏìªüÿÿÿÿ
+A
+java:S1181†"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+H
+java:S2692ş"10 is a valid index, but is ignored by this check.(Ğí•
+H
+java:S1874"1Remove this use of "getWindow"; it is deprecated.(ÌÊõŠ
+7
+java:S3878‚"Remove this array creation.(–ÍòŞûÿÿÿÿ
+J
+java:S1068“"3Remove this unused "toolButtonGroup" private field.(—ŠÊô
+<
+java:S3398ë"%Move this method into "FormListener".(£˜øé
+A
+java:S3398û"%Move this method into "FormListener".(ûÏìªüÿÿÿÿ

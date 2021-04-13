@@ -26,6 +26,7 @@ public class CIEXYChromaticityDiagram extends javax.swing.JPanel {
     private static final long serialVersionUID = 1L;
     private CIEXYChromaticityDiagramImageProducer imageProducer;
     private Image image;
+    private static final int SIZE = 400;
 
     /**
      * Creates new form CIEXYChromaticityDiagram
@@ -79,7 +80,7 @@ public class CIEXYChromaticityDiagram extends javax.swing.JPanel {
                 JFrame f = new JFrame("CIE xy Chromaticity Diagram");
                 f.add(new CIEXYChromaticityDiagram());
                 f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-                f.setSize(400, 400);
+                f.setSize(SIZE, SIZE);
                 f.setVisible(true);
             }
         });
